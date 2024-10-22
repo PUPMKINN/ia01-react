@@ -140,7 +140,7 @@ export default function Game() {
                 </p>
 
                 <p>
-                    <a href="https://github.com/PUPMKINN/IA01-React-Tutorial" target="_blank">
+                    <a href="https://github.com/PUPMKINN/ia01-react" target="_blank">
                         <strong>IA01-React Tutorial &#8599;</strong>
                     </a>
                 </p>
