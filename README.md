@@ -13,7 +13,7 @@ npm install
 npm run dev
 ```
 
-or visit the [hosted version](http://localhost:5173/IA01-React-Tutorial/).
+or visit the [hosted version](https://pupmkinn.github.io/ia01-react/).
 
 ## Self evaluation
 
